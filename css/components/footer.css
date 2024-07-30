@@ -1,0 +1,18 @@
+.footer{
+  background-color: #2c2b2b;
+  color: #6B6C6C;
+  text-align: center;
+  padding: 20px;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.footer-icons{
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer a{
+  color: #1EDD88;
+}
